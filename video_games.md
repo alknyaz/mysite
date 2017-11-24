@@ -1,5 +1,7 @@
 List of my favorite video games
 1. Battlefield 1
+<img width="50" src="images/Battlefield.jpg" title="Battlefield picture" />
+
 ![Battlefield picture](images/Battlefield.jpg)
 
 2. FIFA 17
