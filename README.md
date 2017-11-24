@@ -1,8 +1,7 @@
 ## Welcome to Alex K. Web site
 
-You can use the [editor on GitHub](https://github.com/alknyaz/mysite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Alex K. and it is my web site.My hobbies are tennis, video games,and drawing in Sketchup.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Link to my sketchup projects](sketchup)    
 
