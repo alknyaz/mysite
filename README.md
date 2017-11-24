@@ -2,7 +2,7 @@
 
 Hi! My name is Alex K. and it is my web site.My hobbies are tennis, video games,and drawing in Sketchup.
 
-[Link to my video games](List of my video games) 
+[Link to my video games](video_games) 
 
 [Link to my sketchup projects](sketchup)    
 
