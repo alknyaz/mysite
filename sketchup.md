@@ -1,5 +1,7 @@
 ## My Sketchup Projects
 
+![sketchup logo](images/sketchup_logo.png)
+
 One this I will present my sketckup projects
 Her is a list of my sketckup projects
 
