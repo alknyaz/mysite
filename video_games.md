@@ -5,7 +5,7 @@ List of my favorite video games
 
 2. FIFA 17
 
-<img src="images/FIFA17.jpeg" title="FIFA picture"
+<img src="images/FIFA17.jpeg" title="FIFA picture" />
 
 3. Forza Horizon 3
 4. Rainbow 6 siege
