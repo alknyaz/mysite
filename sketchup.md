@@ -11,19 +11,19 @@ Her is a list of my sketckup projects
 
 - Project 1
 
-<img src="images/house_1_1.png" title="house_1_1" />
+<img width="300" src="images/house_1_1.png" title="house_1_1" />
 
-<img src="images/house_1_3.png" title="house_1_3" />
+<img width="300" src="images/house_1_3.png" title="house_1_3" />
 
-<img src="images/house _1_2.png" title="house_1_2" />
+<img width="300" src="images/house _1_2.png" title="house_1_2" />
 
 
 
 - Project 2
 
-<img src="images/house_2_1.png" title="house_2_1" />
+<img width="300" src="images/house_2_1.png" title="house_2_1" />
 
-<img src="images/house_2_2.png" title="house_2_2" />
+<img width="300" src="images/house_2_2.png" title="house_2_2" />
 
-<img src="images/house_2_3.png" title="house_2_3" />
+<img width="300" src="images/house_2_3.png" title="house_2_3" />
 
