@@ -9,7 +9,7 @@ List of my favorite video games
 
 3. Forza Horizon 3
 
-<img scr="images/Forza_horizon_3.jpg" title="Forza Horizon 3 picture" />
+<img scr="images/Forza_horizon_3.jpg" title="Forza horizon 3 picture" />
 
 4. Rainbow 6 siege
 5. Roblox
