@@ -1,4 +1,7 @@
 List of my favorite video games
+
+[Back to home](README.md)
+
 1. Battlefield 1
 
 <img width="300" src="images/Battlefield.jpg" title="Battlefield picture" />
@@ -18,6 +21,3 @@ List of my favorite video games
 5. Roblox
 
 <img src="roblox.jpeg" title="roblox picture" />
-
-[Back to home](README.md)
-
