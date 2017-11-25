@@ -1,7 +1,7 @@
 List of my favorite video games
 1. Battlefield 1
 
-<img width="200" src="images/Battlefield.jpg" title="Battlefield picture" />
+<img width="300" src="images/Battlefield.jpg" title="Battlefield picture" />
 
 2. FIFA 17
 
@@ -13,6 +13,6 @@ List of my favorite video games
 
 4. Rainbow 6 siege
 
-<img src="images/Rainbow_six_siege.jpg" title="Rainbow six siege" />
+<img width="300" src="images/Rainbow_six_siege.jpg" title="Rainbow six siege" />
 
 5. Roblox
