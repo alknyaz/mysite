@@ -12,4 +12,11 @@ Her is a list of my sketckup projects
 ### Projects
 
 - Project 1
+
+<img src="images/house_1_1.png" title="house_1_1" />
+
+<img src="images/house_1_2.png" title="house_1_2" />
+
+<img src="images/house_1_3.png" title="house_1_3" />
+
 - Project 2
