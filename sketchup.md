@@ -28,3 +28,9 @@ Her is a list of my sketckup projects
 - Project 3
 
 <img width="300" src="images/house_3_1.png" title="house_3_1" />
+
+<img width="300" src="images/house_3_2.png" title="house_3_2" />
+
+<img width="300" src="images/house_3_3.png" title="house_3_3" />
+
+<img width="300" src="images/house_3_4.png" title="house_3_4" />
