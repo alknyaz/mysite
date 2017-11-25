@@ -20,3 +20,9 @@ Her is a list of my sketckup projects
 
 
 - Project 2
+
+<img scr="images/house_2_1.png" title"house_2_1" />
+
+<img scr="images/house_2_2.png" title"house_2_2" />
+
+<img scr="images/house_2_3.png" title"house_2_3" />
