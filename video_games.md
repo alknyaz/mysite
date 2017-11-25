@@ -2,22 +2,22 @@ List of my favorite video games
 
 [Back to home](README.md)
 
-1. Battlefield 1
+- Battlefield 1
 
 <img width="300" src="images/Battlefield.jpg" title="Battlefield picture" />
 
-2. FIFA 17
+- FIFA 17
 
 <img src="images/FIFA17.jpeg" title="FIFA picture" />
 
-3. Forza Horizon 3
+- Forza Horizon 3
 
 <img src="images/Forza_horizon_3.jpg" title="Forza horizon 3 picture" />
 
-4. Rainbow 6 siege
+- Rainbow 6 siege
 
 <img width="300" src="images/Rainbow_six_siege.jpg" title="Rainbow six siege" />
 
-5. Roblox
+- Roblox
 
 <img src="roblox.jpeg" title="roblox picture" />
